@@ -16,12 +16,21 @@
       "iconURL": "https://raw.githubusercontent.com/i19052314-cloud/Closss/main/icon.png",
       "tintColor": "#0F766E",
       "category": "utilities",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "versionDate": "2026-11-24",
-      "versionDescription": "1.1.0: быстрый встроенный распознаватель кодов iPhone (каждый кадр), по умолчанию 1080p, быстрый автофокус вблизи.",
-      "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.1.0/Imran.ipa",
-      "size": 480322,
+      "versionDescription": "Видно, ввёл ли ТСД коды в программу заданий: «Введено в программу», «в очереди ТСД», предупреждение с причиной и тревога.",
+      "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.2.0/Imran.ipa",
+      "size": 485959,
       "versions": [
+        {
+          "version": "1.2.0",
+          "buildVersion": "3",
+          "date": "2026-11-24",
+          "localizedDescription": "Видно, ввёл ли ТСД коды в программу заданий: «Введено в программу», «в очереди ТСД», предупреждение с причиной и тревога.",
+          "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.2.0/Imran.ipa",
+          "size": 485959,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.1.0",
           "buildVersion": "2",
