@@ -1,0 +1,45 @@
+{
+  "name": "Imran",
+  "identifier": "ru.imran.source",
+  "subtitle": "Приложения Imran для склада",
+  "description": "Камера iPhone читает коды маркировки DataMatrix (Честный знак) и сразу отправляет их на ТСД — в программу заданий, как скан ТСД.",
+  "iconURL": "https://raw.githubusercontent.com/i19052314-cloud/Closss/main/icon.png",
+  "website": "https://github.com/i19052314-cloud/Closss",
+  "tintColor": "#0F766E",
+  "apps": [
+    {
+      "name": "Imran",
+      "bundleIdentifier": "ru.imran.ios",
+      "developerName": "Imran",
+      "subtitle": "Сканер кодов маркировки → ТСД",
+      "localizedDescription": "Камера iPhone читает коды маркировки DataMatrix (Честный знак) и сразу отправляет их на ТСД — в программу заданий, как скан ТСД.",
+      "iconURL": "https://raw.githubusercontent.com/i19052314-cloud/Closss/main/icon.png",
+      "tintColor": "#0F766E",
+      "category": "utilities",
+      "version": "1.1.0",
+      "versionDate": "2026-11-24",
+      "versionDescription": "1.1.0: быстрый встроенный распознаватель кодов iPhone (каждый кадр), по умолчанию 1080p, быстрый автофокус вблизи.",
+      "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.1.0/Imran.ipa",
+      "size": 480322,
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "2",
+          "date": "2026-11-24",
+          "localizedDescription": "1.1.0: быстрый встроенный распознаватель кодов iPhone (каждый кадр), по умолчанию 1080p, быстрый автофокус вблизи.",
+          "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.1.0/Imran.ipa",
+          "size": 480322,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Камера читает коды маркировки DataMatrix и QR-код с экрана ТСД.",
+          "NSLocalNetworkUsageDescription": "Imran отправляет отсканированные коды на ТСД в локальной сети (Wi-Fi склада или режим модема)."
+        }
+      }
+    }
+  ],
+  "news": []
+}
