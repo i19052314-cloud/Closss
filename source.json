@@ -16,12 +16,21 @@
       "iconURL": "https://raw.githubusercontent.com/i19052314-cloud/Closss/main/icon.png",
       "tintColor": "#0F766E",
       "category": "utilities",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "versionDate": "2026-11-25",
-      "versionDescription": "1.4.0: сканер Apple VisionKit — как у Code Scan: мгновенное чтение, все коды в кадре. Режимы Быстро / Баланс / Мелкие коды.",
-      "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.4.0/Imran.ipa",
-      "size": 593986,
+      "versionDescription": "1.5.0: движок ZXing-C++ — как у Code Scan. Замер скорости на камере. Сканер Apple и собственный движок — в настройках.",
+      "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.5.0/Imran.ipa",
+      "size": 996049,
       "versions": [
+        {
+          "version": "1.5.0",
+          "buildVersion": "6",
+          "date": "2026-11-25",
+          "localizedDescription": "1.5.0: движок ZXing-C++ — как у Code Scan. Замер скорости на камере. Сканер Apple и собственный движок — в настройках.",
+          "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.5.0/Imran.ipa",
+          "size": 996049,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.4.0",
           "buildVersion": "5",
@@ -66,7 +75,7 @@
           "NSLocalNetworkUsageDescription": "Imran отправляет отсканированные коды на ТСД в локальной сети (Wi-Fi склада или режим модема)."
         }
       },
-      "buildVersion": "5"
+      "buildVersion": "6"
     }
   ],
   "news": []
