@@ -16,12 +16,21 @@
       "iconURL": "https://raw.githubusercontent.com/i19052314-cloud/Closss/main/icon.png",
       "tintColor": "#0F766E",
       "category": "utilities",
-      "version": "1.5.0",
-      "versionDate": "2026-11-25",
-      "versionDescription": "1.5.0: движок ZXing-C++ — как у Code Scan. Замер скорости на камере. Сканер Apple и собственный движок — в настройках.",
-      "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.5.0/Imran.ipa",
-      "size": 996049,
+      "version": "1.6.0",
+      "versionDate": "2026-10-14",
+      "versionDescription": "Склейка точек струйной печати в сплошные квадраты для ZXing (Настройки → Распознавание).",
+      "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.6.0/Imran.ipa",
+      "size": 1003700,
       "versions": [
+        {
+          "version": "1.6.0",
+          "buildVersion": "7",
+          "date": "2026-10-14",
+          "localizedDescription": "Склейка точек струйной печати в сплошные квадраты для ZXing (Настройки → Распознавание).",
+          "downloadURL": "https://github.com/i19052314-cloud/Closss/releases/download/v1.6.0/Imran.ipa",
+          "size": 1003700,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.5.0",
           "buildVersion": "6",
@@ -75,7 +84,7 @@
           "NSLocalNetworkUsageDescription": "Imran отправляет отсканированные коды на ТСД в локальной сети (Wi-Fi склада или режим модема)."
         }
       },
-      "buildVersion": "6"
+      "buildVersion": "7"
     }
   ],
   "news": []
